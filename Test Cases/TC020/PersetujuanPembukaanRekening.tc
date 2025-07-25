@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PersetujuanPembukaanRekening</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>93104f33-0650-4d8e-ae46-1fc08f7b3441</testCaseGuid>
+</TestCaseEntity>

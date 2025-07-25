@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PembukaanRekeningBerjangkaKendaraan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1572c68a-17fa-4482-8e80-7eb1a8a8c602</testCaseGuid>
+</TestCaseEntity>
