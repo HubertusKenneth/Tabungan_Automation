@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BlokirRekeningYangDipakai</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1c70b95f-ae2a-4060-acf2-edacf94cd134</testCaseGuid>
+</TestCaseEntity>

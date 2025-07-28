@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PencarianNoRekTidakAdaAkses</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8d2f69a-de13-42ca-b3d5-e306363d1320</testCaseGuid>
+</TestCaseEntity>
