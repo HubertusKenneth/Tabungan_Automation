@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nama Nasabah  No. Rekening</name>
+   <tag></tag>
+   <elementGuidId>28015ec2-4a1c-4f4d-9d23-d0dee3af93f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.Label-CAPTION:t:']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Nama Nasabah / No. Rekening&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>481d3b83-2f26-4e28-bd42-20beddf737c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>font-size</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>7c7b64a3-2a6e-4b61-a1bc-e406767516dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.Label-CAPTION:t:</value>
+      <webElementGuid>fe6517d4-49ee-49d0-8faf-71cd30f6ea46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-span xui-label-caption     xui-custom</value>
+      <webElementGuid>a7c3e986-86b1-43ac-b1cb-f65a8c95711b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama Nasabah / No. Rekening</value>
+      <webElementGuid>80eea0b9-5da2-4642-b8ad-9d1d3c48e951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.Label-CAPTION:t:&quot;)</value>
+      <webElementGuid>2e4db192-b691-43ac-9674-80242c808a8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.Label-CAPTION:t:']</value>
+      <webElementGuid>18877860-2f26-4026-9f65-65de18971fe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='xui.UI.Label:t:']/span[3]</value>
+      <webElementGuid>cc6dc6c6-b785-4f9e-8b7e-313dd978d7b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PEMELIHARAAN BLOKIR DANA TABUNGAN'])[2]/following::span[9]</value>
+      <webElementGuid>522321c4-da46-4341-9c92-1ccf22b75aa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PEMELIHARAAN BLOKIR DANA TABUNGAN'])[1]/following::span[27]</value>
+      <webElementGuid>a28d26f2-01ac-4b88-a36c-5bf950ff61f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::span[14]</value>
+      <webElementGuid>6d54170a-c6d7-4b3c-9174-efcee263e57d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kantor'])[1]/preceding::span[18]</value>
+      <webElementGuid>1bdcfad9-ed54-4c38-944a-77157cec9c69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nama Nasabah / No. Rekening']/parent::*</value>
+      <webElementGuid>7521e6b4-90ba-443b-9a17-a77726c48fbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/span[3]</value>
+      <webElementGuid>697c9a88-67d8-435a-8639-56ff4582d544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'xui.UI.Label-CAPTION:t:' and (text() = 'Nama Nasabah / No. Rekening' or . = 'Nama Nasabah / No. Rekening')]</value>
+      <webElementGuid>56f600d0-7138-404a-8e17-989d6b96f957</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
