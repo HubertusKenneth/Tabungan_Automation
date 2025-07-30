@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kategori123  PRODUK TEST DI GLPM45AD1  _af9923_1</name>
+   <tag></tag>
+   <elementGuidId>21db925e-eefd-4c9b-9819-f49ece8ce4f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='xui.UI.Group-PANEL:f:']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Kategori01 - Produk123 = PRODUK TEST DI GLPM45AD1 = TABUNGAN PERORANGANAD2 = TAB&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>45d7a149-3e9f-4125-88a4-a4e52a384a97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.Group-PANEL:f:</value>
+      <webElementGuid>5962ffc1-10e7-4e9a-a74d-b2ef4a10799d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-div xui-group-panel xui-uicontainer xui-uiborder-radius-bl xui-uiborder-radius-br     xui-custom</value>
+      <webElementGuid>1e1edce5-f100-460f-ae5e-5d5cbf5a1f0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kategori123 = PRODUK TEST DI GLPM45AD1 = TABUNGAN PERORANGANAD2 = TABUNGAN ANTAR BANKAD3 = TABUNGAN BERJANGKA STANDARTAD4 = TABUNGAN BERJANGKA HADIAHAD5 = TABUNGAN BERJANGKA KENDARAANAD7 = PERORANGAN MINIMUMAD8 = PERORANGAN SPLITAY = AYOMI TESM1 = MIA TABUNGAN BIASAM2 = MIA BERJANGKA HADIAHM3 = MIA BERJANGKA KENDARAANM4 = ANTAR BANK MIAMA1 = MA BERJANGKA HADIAHP00 = PRODUK KAP 00T00 = YADI TAKA 00T01 = YADI TAKA 00 PILIH TGL DEBET 1 SAMPE 30T88 = YADI TAKA 88TA = TAB KHUSUSTAKA1 = BERJANGKA 1TAKA2 = BERJANGKA 2 BULANTB = TAB UMUMTC = TAB HOGIKUTC1 = ANDREWTESTD = TABUNGANKUTE = TAB ANTAR BANKTF = TABUNGAN SIKADOTG = TABUNGAN SIMPELTK30 = YADI TAKA 1 SAMPE 30YDH = YADI HADIAHYDP = YADI POINTYDTAK = YADI BERJANGKA DEBET AKHIR BULANYDTK = YADI TAKA TANPA TGL DEBETYTK = YADI TAKA BARUDariAD1 = TABUNGAN PERORANGANAD2 = TABUNGAN ANTAR BANKAD3 = TABUNGAN BERJANGKA STANDARTAD4 = TABUNGAN BERJANGKA HADIAHAD5 = TABUNGAN BERJANGKA KENDARAANAD7 = PERORANGAN MINIMUMAD8 = PERORANGAN SPLITAY = AYOMI TESM1 = MIA TABUNGAN BIASAM2 = MIA BERJANGKA HADIAHM3 = MIA BERJANGKA KENDARAANM4 = ANTAR BANK MIAMA1 = MA BERJANGKA HADIAHP00 = PRODUK KAP 00T00 = YADI TAKA 00T01 = YADI TAKA 00 PILIH TGL DEBET 1 SAMPE 30T88 = YADI TAKA 88TA = TAB KHUSUSTAKA1 = BERJANGKA 1TAKA2 = BERJANGKA 2 BULANTB = TAB UMUMTC = TAB HOGIKUTC1 = ANDREWTESTD = TABUNGANKUTE = TAB ANTAR BANKTF = TABUNGAN SIKADOTG = TABUNGAN SIMPELTK30 = YADI TAKA 1 SAMPE 30YDH = YADI HADIAHYDP = YADI POINTYDTAK = YADI BERJANGKA DEBET AKHIR BULANYDTK = YADI TAKA TANPA TGL DEBETYTK = YADI TAKA BARUSampai</value>
+      <webElementGuid>50b55243-2dbc-4f37-a76f-848b25aa5641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.Group-PANEL:f:&quot;)</value>
+      <webElementGuid>1ef01bf7-e8fe-41bd-a332-b296636cf245</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.Group-PANEL:f:']</value>
+      <webElementGuid>114bc747-fdca-4f56-8058-51781b8db00e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='xui.UI.Group-BORDER:f:']/div</value>
+      <webElementGuid>bef75d51-a391-470f-80d2-bce564da8c39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group'])[1]/following::div[2]</value>
+      <webElementGuid>bfcd2b55-12e9-4979-b766-b4636c3eaeb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Range Kantor'])[1]/following::div[4]</value>
+      <webElementGuid>da401416-ff0f-4364-8606-f4eba5d8236c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/fieldset/div</value>
+      <webElementGuid>e6f831c8-c7ff-418f-8bb0-c516de902d58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'xui.UI.Group-PANEL:f:' and (text() = 'Kategori123 = PRODUK TEST DI GLPM45AD1 = TABUNGAN PERORANGANAD2 = TABUNGAN ANTAR BANKAD3 = TABUNGAN BERJANGKA STANDARTAD4 = TABUNGAN BERJANGKA HADIAHAD5 = TABUNGAN BERJANGKA KENDARAANAD7 = PERORANGAN MINIMUMAD8 = PERORANGAN SPLITAY = AYOMI TESM1 = MIA TABUNGAN BIASAM2 = MIA BERJANGKA HADIAHM3 = MIA BERJANGKA KENDARAANM4 = ANTAR BANK MIAMA1 = MA BERJANGKA HADIAHP00 = PRODUK KAP 00T00 = YADI TAKA 00T01 = YADI TAKA 00 PILIH TGL DEBET 1 SAMPE 30T88 = YADI TAKA 88TA = TAB KHUSUSTAKA1 = BERJANGKA 1TAKA2 = BERJANGKA 2 BULANTB = TAB UMUMTC = TAB HOGIKUTC1 = ANDREWTESTD = TABUNGANKUTE = TAB ANTAR BANKTF = TABUNGAN SIKADOTG = TABUNGAN SIMPELTK30 = YADI TAKA 1 SAMPE 30YDH = YADI HADIAHYDP = YADI POINTYDTAK = YADI BERJANGKA DEBET AKHIR BULANYDTK = YADI TAKA TANPA TGL DEBETYTK = YADI TAKA BARUDariAD1 = TABUNGAN PERORANGANAD2 = TABUNGAN ANTAR BANKAD3 = TABUNGAN BERJANGKA STANDARTAD4 = TABUNGAN BERJANGKA HADIAHAD5 = TABUNGAN BERJANGKA KENDARAANAD7 = PERORANGAN MINIMUMAD8 = PERORANGAN SPLITAY = AYOMI TESM1 = MIA TABUNGAN BIASAM2 = MIA BERJANGKA HADIAHM3 = MIA BERJANGKA KENDARAANM4 = ANTAR BANK MIAMA1 = MA BERJANGKA HADIAHP00 = PRODUK KAP 00T00 = YADI TAKA 00T01 = YADI TAKA 00 PILIH TGL DEBET 1 SAMPE 30T88 = YADI TAKA 88TA = TAB KHUSUSTAKA1 = BERJANGKA 1TAKA2 = BERJANGKA 2 BULANTB = TAB UMUMTC = TAB HOGIKUTC1 = ANDREWTESTD = TABUNGANKUTE = TAB ANTAR BANKTF = TABUNGAN SIKADOTG = TABUNGAN SIMPELTK30 = YADI TAKA 1 SAMPE 30YDH = YADI HADIAHYDP = YADI POINTYDTAK = YADI BERJANGKA DEBET AKHIR BULANYDTK = YADI TAKA TANPA TGL DEBETYTK = YADI TAKA BARUSampai' or . = 'Kategori123 = PRODUK TEST DI GLPM45AD1 = TABUNGAN PERORANGANAD2 = TABUNGAN ANTAR BANKAD3 = TABUNGAN BERJANGKA STANDARTAD4 = TABUNGAN BERJANGKA HADIAHAD5 = TABUNGAN BERJANGKA KENDARAANAD7 = PERORANGAN MINIMUMAD8 = PERORANGAN SPLITAY = AYOMI TESM1 = MIA TABUNGAN BIASAM2 = MIA BERJANGKA HADIAHM3 = MIA BERJANGKA KENDARAANM4 = ANTAR BANK MIAMA1 = MA BERJANGKA HADIAHP00 = PRODUK KAP 00T00 = YADI TAKA 00T01 = YADI TAKA 00 PILIH TGL DEBET 1 SAMPE 30T88 = YADI TAKA 88TA = TAB KHUSUSTAKA1 = BERJANGKA 1TAKA2 = BERJANGKA 2 BULANTB = TAB UMUMTC = TAB HOGIKUTC1 = ANDREWTESTD = TABUNGANKUTE = TAB ANTAR BANKTF = TABUNGAN SIKADOTG = TABUNGAN SIMPELTK30 = YADI TAKA 1 SAMPE 30YDH = YADI HADIAHYDP = YADI POINTYDTAK = YADI BERJANGKA DEBET AKHIR BULANYDTK = YADI TAKA TANPA TGL DEBETYTK = YADI TAKA BARUDariAD1 = TABUNGAN PERORANGANAD2 = TABUNGAN ANTAR BANKAD3 = TABUNGAN BERJANGKA STANDARTAD4 = TABUNGAN BERJANGKA HADIAHAD5 = TABUNGAN BERJANGKA KENDARAANAD7 = PERORANGAN MINIMUMAD8 = PERORANGAN SPLITAY = AYOMI TESM1 = MIA TABUNGAN BIASAM2 = MIA BERJANGKA HADIAHM3 = MIA BERJANGKA KENDARAANM4 = ANTAR BANK MIAMA1 = MA BERJANGKA HADIAHP00 = PRODUK KAP 00T00 = YADI TAKA 00T01 = YADI TAKA 00 PILIH TGL DEBET 1 SAMPE 30T88 = YADI TAKA 88TA = TAB KHUSUSTAKA1 = BERJANGKA 1TAKA2 = BERJANGKA 2 BULANTB = TAB UMUMTC = TAB HOGIKUTC1 = ANDREWTESTD = TABUNGANKUTE = TAB ANTAR BANKTF = TABUNGAN SIKADOTG = TABUNGAN SIMPELTK30 = YADI TAKA 1 SAMPE 30YDH = YADI HADIAHYDP = YADI POINTYDTAK = YADI BERJANGKA DEBET AKHIR BULANYDTK = YADI TAKA TANPA TGL DEBETYTK = YADI TAKA BARUSampai')]</value>
+      <webElementGuid>5959229d-7493-453e-9961-3d9e12225b0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

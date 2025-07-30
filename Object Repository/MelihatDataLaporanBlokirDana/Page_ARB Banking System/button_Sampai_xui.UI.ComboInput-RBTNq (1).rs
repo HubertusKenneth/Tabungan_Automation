@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sampai_xui.UI.ComboInput-RBTNq (1)</name>
+   <tag></tag>
+   <elementGuidId>32a99fd2-26fb-403f-83ad-54a4271eb9a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='xui.UI.ComboInput-RBTN:q:']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=group[name=&quot;Group&quot;i] >> internal:role=button >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>90c1e852-ab29-41de-8968-268cb96a1c54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.ComboInput-RBTN:q:</value>
+      <webElementGuid>6f4da0b5-cb6b-42ab-903c-c61745a9a4a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-ui-reset xui-node-button xui-comboinput-rbtn xui-ui-unselectable xui-ui-btn xui-uibar xui-uigradient xui-nofocus xui-uiborder-radius-tr xui-uiborder-radius-br xui-uiborder-noradius-l     xui-custom</value>
+      <webElementGuid>721e6f14-c562-4187-8f1d-c461baa7aaf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.ComboInput-RBTN:q:&quot;)</value>
+      <webElementGuid>4dff2413-2de8-4c18-820a-561f9e336a65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='xui.UI.ComboInput-RBTN:q:']</value>
+      <webElementGuid>ac6baa89-2752-417c-847c-dd4f93d7cb02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.ComboInput-BORDER:q:']/button</value>
+      <webElementGuid>6f148080-10c9-4fd5-a77a-3931da7f3146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sampai'])[1]/following::button[3]</value>
+      <webElementGuid>9145e6b3-c4dc-4239-88fd-4eaae4fcbd80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dari'])[1]/following::button[7]</value>
+      <webElementGuid>b60ec9ba-690f-42e0-84d5-b431289a00c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Group'])[1]/preceding::button[2]</value>
+      <webElementGuid>877f61ed-eed3-4ec1-9b4f-33dc81ad8027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dari'])[2]/preceding::button[2]</value>
+      <webElementGuid>b682a81e-b583-4dcb-a707-9ee42a68074c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/span/span[3]/button</value>
+      <webElementGuid>afcde37e-427d-468e-9e4c-ddfe2f8b8037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'xui.UI.ComboInput-RBTN:q:']</value>
+      <webElementGuid>91a25fd5-38a1-488c-897f-0b60f9053582</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

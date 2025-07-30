@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LaporanBlokirDanaDibatalkanGroupKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d5096bcf-e127-48c0-aaf9-d8d512827642</testCaseGuid>
+</TestCaseEntity>

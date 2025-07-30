@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_TABUNGAN BERJANGKA KENDARAAN</name>
+   <tag></tag>
+   <elementGuidId>33547aaf-02da-4b3d-a204-91b8a666c5ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='xui.UI.List-CAPTION:g:e']/table/tbody/tr/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;TABUNGAN BERJANGKA KENDARAAN&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>71fedf0e-db2f-4daf-b621-9baabe684381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TABUNGAN BERJANGKA KENDARAAN</value>
+      <webElementGuid>9dbfc8d1-6d80-43f7-b3fc-ecbb4f35df07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.List-CAPTION:g:e&quot;)/table[1]/tbody[1]/tr[1]/td[3]</value>
+      <webElementGuid>844388a7-e7fc-4743-ad4a-9e043adcd1af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='xui.UI.List-CAPTION:g:e']/table/tbody/tr/td[3]</value>
+      <webElementGuid>9264a754-f42f-4c0f-8b10-8432cb4e0ba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='='])[40]/following::td[1]</value>
+      <webElementGuid>0e8b0c1d-691d-42ee-ae31-ba5742dd3baf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AD5'])[2]/following::td[2]</value>
+      <webElementGuid>08b3494b-e55e-40be-8103-214c4f2edb27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AD7'])[2]/preceding::td[1]</value>
+      <webElementGuid>40f5557d-1bca-4c80-a070-28999fb78b3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='='])[41]/preceding::td[2]</value>
+      <webElementGuid>b80dac25-4b8d-464e-a4c9-dad072c9631f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/span[5]/span[4]/table/tbody/tr/td[3]</value>
+      <webElementGuid>ae7caea3-20be-4f04-8fa6-e11d9edf4317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'TABUNGAN BERJANGKA KENDARAAN' or . = 'TABUNGAN BERJANGKA KENDARAAN')]</value>
+      <webElementGuid>d1a61ad5-fdc7-481c-a417-961a4f2923ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LaporanBlokirDanaDibatalkanUrutBerdasarkan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8581ae4-3576-48c9-8a69-f762cf667bc5</testCaseGuid>
+</TestCaseEntity>

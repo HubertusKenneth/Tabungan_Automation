@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kategori123  PRODUK TEST DI GLPM45AD1  _af9923</name>
+   <tag></tag>
+   <elementGuidId>1c771c06-3724-4522-8dfe-1f90b1c31bf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='xui.UI.Group-PANEL:f:']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Kategori01 - Produk123 = PRODUK TEST DI GLPM45AD1 = TABUNGAN PERORANGANAD2 = TAB&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>805f4758-621d-43bc-9efe-1cb28c7be046</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>xui.UI.Group-PANEL:f:</value>
+      <webElementGuid>1da38820-4d82-427c-853b-a4825f82aca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>xui-node xui-node-div xui-group-panel xui-uicontainer xui-uiborder-radius-bl xui-uiborder-radius-br     xui-custom</value>
+      <webElementGuid>306ee7f6-6ef9-4f36-b007-e2649f145a40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kategori123 = PRODUK TEST DI GLPM45AD1 = TABUNGAN PERORANGANAD2 = TABUNGAN ANTAR BANKAD3 = TABUNGAN BERJANGKA STANDARTAD4 = TABUNGAN BERJANGKA HADIAHAD5 = TABUNGAN BERJANGKA KENDARAANAD7 = PERORANGAN MINIMUMAD8 = PERORANGAN SPLITAY = AYOMI TESM1 = MIA TABUNGAN BIASAM2 = MIA BERJANGKA HADIAHM3 = MIA BERJANGKA KENDARAANM4 = ANTAR BANK MIAMA1 = MA BERJANGKA HADIAHP00 = PRODUK KAP 00T00 = YADI TAKA 00T01 = YADI TAKA 00 PILIH TGL DEBET 1 SAMPE 30T88 = YADI TAKA 88TA = TAB KHUSUSTAKA1 = BERJANGKA 1TAKA2 = BERJANGKA 2 BULANTB = TAB UMUMTC = TAB HOGIKUTC1 = ANDREWTESTD = TABUNGANKUTE = TAB ANTAR BANKTF = TABUNGAN SIKADOTG = TABUNGAN SIMPELTK30 = YADI TAKA 1 SAMPE 30YDH = YADI HADIAHYDP = YADI POINTYDTAK = YADI BERJANGKA DEBET AKHIR BULANYDTK = YADI TAKA TANPA TGL DEBETYTK = YADI TAKA BARUDariSampai</value>
+      <webElementGuid>617d17f7-b6a3-4023-8e64-98e9b5f3b2e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xui.UI.Group-PANEL:f:&quot;)</value>
+      <webElementGuid>8c608be8-6d01-4195-9379-16674281931d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='xui.UI.Group-PANEL:f:']</value>
+      <webElementGuid>306d96a5-0326-4d8a-8cc8-5c270be002f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='xui.UI.Group-BORDER:f:']/div</value>
+      <webElementGuid>b0ed48e0-0df9-4f5a-88a7-a6b001306eb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group'])[1]/following::div[2]</value>
+      <webElementGuid>fbe2e880-8c65-459f-a5fb-943cd69a5f9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Range Kantor'])[1]/following::div[4]</value>
+      <webElementGuid>b9ad2271-2400-4e5d-be19-430693fc649d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/fieldset/div</value>
+      <webElementGuid>c1d2acef-057e-490b-8989-164ea7e5191a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'xui.UI.Group-PANEL:f:' and (text() = 'Kategori123 = PRODUK TEST DI GLPM45AD1 = TABUNGAN PERORANGANAD2 = TABUNGAN ANTAR BANKAD3 = TABUNGAN BERJANGKA STANDARTAD4 = TABUNGAN BERJANGKA HADIAHAD5 = TABUNGAN BERJANGKA KENDARAANAD7 = PERORANGAN MINIMUMAD8 = PERORANGAN SPLITAY = AYOMI TESM1 = MIA TABUNGAN BIASAM2 = MIA BERJANGKA HADIAHM3 = MIA BERJANGKA KENDARAANM4 = ANTAR BANK MIAMA1 = MA BERJANGKA HADIAHP00 = PRODUK KAP 00T00 = YADI TAKA 00T01 = YADI TAKA 00 PILIH TGL DEBET 1 SAMPE 30T88 = YADI TAKA 88TA = TAB KHUSUSTAKA1 = BERJANGKA 1TAKA2 = BERJANGKA 2 BULANTB = TAB UMUMTC = TAB HOGIKUTC1 = ANDREWTESTD = TABUNGANKUTE = TAB ANTAR BANKTF = TABUNGAN SIKADOTG = TABUNGAN SIMPELTK30 = YADI TAKA 1 SAMPE 30YDH = YADI HADIAHYDP = YADI POINTYDTAK = YADI BERJANGKA DEBET AKHIR BULANYDTK = YADI TAKA TANPA TGL DEBETYTK = YADI TAKA BARUDariSampai' or . = 'Kategori123 = PRODUK TEST DI GLPM45AD1 = TABUNGAN PERORANGANAD2 = TABUNGAN ANTAR BANKAD3 = TABUNGAN BERJANGKA STANDARTAD4 = TABUNGAN BERJANGKA HADIAHAD5 = TABUNGAN BERJANGKA KENDARAANAD7 = PERORANGAN MINIMUMAD8 = PERORANGAN SPLITAY = AYOMI TESM1 = MIA TABUNGAN BIASAM2 = MIA BERJANGKA HADIAHM3 = MIA BERJANGKA KENDARAANM4 = ANTAR BANK MIAMA1 = MA BERJANGKA HADIAHP00 = PRODUK KAP 00T00 = YADI TAKA 00T01 = YADI TAKA 00 PILIH TGL DEBET 1 SAMPE 30T88 = YADI TAKA 88TA = TAB KHUSUSTAKA1 = BERJANGKA 1TAKA2 = BERJANGKA 2 BULANTB = TAB UMUMTC = TAB HOGIKUTC1 = ANDREWTESTD = TABUNGANKUTE = TAB ANTAR BANKTF = TABUNGAN SIKADOTG = TABUNGAN SIMPELTK30 = YADI TAKA 1 SAMPE 30YDH = YADI HADIAHYDP = YADI POINTYDTAK = YADI BERJANGKA DEBET AKHIR BULANYDTK = YADI TAKA TANPA TGL DEBETYTK = YADI TAKA BARUDariSampai')]</value>
+      <webElementGuid>affce398-a76f-447a-a395-564b7d6690c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

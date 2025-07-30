@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LaporanBlokirDanaDibatalkanFilterBerdasarkan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c177a030-8dbf-4154-9f9f-ccf4ed48738a</testCaseGuid>
+</TestCaseEntity>
